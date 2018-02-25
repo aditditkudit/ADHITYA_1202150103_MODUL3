@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\IMPORTANT\Apps\MOBILEAPPS\ADHITYA_1202150103_MODUL3\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\IMPORTANT\Apps\MOBILEAPPS\ADHITYA_1202150103_MODUL3\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ba56c4278f1a118bd688231a5153baa7805b1f80\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tavs\.android\build-cache\520d9353625549bb982a992d880c2d10ee721057\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="D:\IMPORTANT\Apps\MOBILEAPPS\ADHITYA_1202150103_MODUL3\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2fa885e47da195eaf3c9cb7ac6656d6151421bf5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\IMPORTANT\Apps\MOBILEAPPS\ADHITYA_1202150103_MODUL3\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="e4c436e2f3e103485a76b11cf966e502b20bb9bd">
+        <dex dex="D:\IMPORTANT\Apps\MOBILEAPPS\ADHITYA_1202150103_MODUL3\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_39643dc322dd69585df2fbacd056dda26a81543b\classes.dex" />
+    </item>
+
+</items>
